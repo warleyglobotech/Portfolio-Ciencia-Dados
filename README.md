@@ -32,3 +32,16 @@ Bem-vindo ao meu laboratório de dados. Aqui, combino minha experiência em comu
 
 ---
 *“Dados são apenas números até que alguém conte a história deles.”*
+
+---
+
+### 3. 🏘️ Mercado Imobiliário (Airbnb Rio)
+**Arquivo:** `analise_airbnb.py`
+
+Análise exploratória de dados reais do Airbnb no Rio de Janeiro para identificar oportunidades de investimento e precificação.
+
+* **Fonte de Dados:** Portal Inside Airbnb (Dados reais/públicos).
+* **Técnicas:** Limpeza de Dados (Data Cleaning), Tratamento de Outliers, Visualização com Seaborn.
+* **Insight:** Mapeamento dos bairros com maior oferta vs. bairros com maior ticket médio (Leblon/Ipanema).
+
+![Gráfico Airbnb](grafico_airbnb_rj.png)
