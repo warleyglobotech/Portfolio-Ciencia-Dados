@@ -45,3 +45,16 @@ Análise exploratória de dados reais do Airbnb no Rio de Janeiro para identific
 * **Insight:** Mapeamento dos bairros com maior oferta vs. bairros com maior ticket médio (Leblon/Ipanema).
 
 ![Gráfico Airbnb](grafico_airbnb_rj.png)
+
+---
+
+### 4. 📱 Social Media Analytics (Instagram)
+**Arquivo:** `analise_instagram.py`
+
+Análise de engajamento de redes sociais para identificar padrões de comportamento da audiência e otimizar estratégias de conteúdo.
+
+* **Objetivo:** Descobrir qual formato de post (Reels, Carrossel ou Foto) gera mais interações.
+* **Ferramentas:** Python (Pandas, Seaborn) e Automação de Coleta de Dados.
+* **Resultado:** Dashboards visuais comparando Alcance x Engajamento para tomada de decisão baseada em dados.
+
+![Gráfico Instagram](insights_instagram.png)
